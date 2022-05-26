@@ -2,12 +2,12 @@ body
 {
 	background-color: powderblue;
 }
-#encabezado1 h1
+#enc1 h1
 {
 	color:blue;
 	text-align:center;
 }
-#parrafo1
+#parr1
 {
 	background-color:blue;
 	float:left;
@@ -15,14 +15,14 @@ body
 	color:fuchsia;
 	margin-left:auto;
 }
-#tabla1
+#tab1
 {
 	background-color:yellow;
 	float:left;
 	margin-right:1.5%;
 	margin-left:auto;
 }
-#parrafo2
+#parr2
 {
 	background-color:green;
 	font-size:50;
@@ -31,8 +31,8 @@ body
 	color:red;
 	margin-left:auto;
 }
-#parrafo2 p{font-size:30px;}
-#margen1
+#parr2 p{font-size:30px;}
+#marg1
 {
 	padding: 18px;
 	border: 15px solid yellow;
@@ -51,7 +51,7 @@ body
 	color:black;
 }
 
-#parrafo3
+#parr3
 {
 	background-color:red;
 	float:left;
