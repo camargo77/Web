@@ -1,0 +1,72 @@
+body
+{
+	background-color: powderblue;
+}
+#encabezado1 h1
+{
+	color:blue;
+	text-align:center;
+}
+#parrafo1
+{
+	background-color:blue;
+	float:left;
+	margin-right:3%;
+	margin-left:3%;
+	color:yellow;
+	height: 160px;
+	width: 37%;
+}
+#tabla1
+{
+	background-color:darkcyan;
+	float:left;
+	margin-right:1.5%;
+	margin-left:auto;
+}
+.secundario
+{
+	
+	margin-top:200px;
+}
+#parrafo2
+{
+	background-color:red;
+	margin-right:1.5%;
+	float:left;
+}
+#pueblos 
+{
+	font-size:25px;
+}
+#li1
+{
+	list-style-type: square;
+}
+#li2
+{
+	list-style-type: square;
+}
+#li4
+{
+	color:red;
+}
+#li5   
+{
+	color:purple;ç
+}
+#parrafo3
+{
+	background-color:green;
+	float:left;
+	margin-left:24%;
+	margin-top: -148px;
+}
+#margen1
+{
+	border: 15px dotted yellow;
+}
+#horario
+{
+	text-align:center;
+}
